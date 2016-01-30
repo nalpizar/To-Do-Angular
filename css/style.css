@@ -1,0 +1,17 @@
+/*Dark blue*/
+#405663
+
+/*Coral*/
+#f26d66
+
+/*White*/
+#fff
+
+ul li {
+  list-style: none;
+}
+
+.listNames {
+  font-weight: bold;
+  text-transform: uppercase;
+}
